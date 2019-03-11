@@ -1,8 +1,8 @@
 package com.clark.learn_algorithm.sort;
 
 /**
- * @author
- * @description
+ * @author Clark
+ * @description 选择排序
  * @date 2019/3/7
  */
 public class SelectionSort {

@@ -1,8 +1,8 @@
 package com.clark.learn_algorithm.sort;
 
 /**
- * @author
- * @description
+ * @author Clark
+ * @description 快速排序
  * @date 2019/3/7
  */
 public class QuickSort {
@@ -32,7 +32,7 @@ public class QuickSort {
     }
 
     /**
-     * 找基准点，并把数组按照比基准点小的在左边，比基准点大的在右边进行排序。
+     * 找基准点，并把数组按照比基准点小的放在基准点左边，比基准点大的放在基准点右边进行排序。
      *
      * @param args
      * @param left
